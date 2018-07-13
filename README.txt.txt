@@ -1,1 +1,1 @@
- /* Chinh sua tren server may client */
+/* Chinh sua hop nhat giua server & client */
